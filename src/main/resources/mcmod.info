@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tnsb-modpack",
+  "name": "The Modpack",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://teamnotsobad.com",
+  "updateUrl": "",
+  "authorList": ["skavrx", "computerwiz"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
